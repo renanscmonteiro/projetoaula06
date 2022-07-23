@@ -1,0 +1,14 @@
+{
+  "IdContato": "378e74de-0472-4f45-82a9-588f20de4a0b",
+  "Nome": "Renan Monteiro",
+  "Email": "renanscmonteiro@yahoo.com.br",
+  "Telefone": "(21)99308-3373",
+  "Cpf": "419.008.250-31",
+  "validate": {
+    "IsValid": true,
+    "Errors": [],
+    "RuleSetsExecuted": [
+      "default"
+    ]
+  }
+}
